@@ -1,4 +1,4 @@
-# Portfolio Website
+# React Portfolio Website
 
 ## Live Website
 
@@ -12,10 +12,11 @@ A quick guide to my Project ->
 
 - ReactJS
 - JSX
-- react-router-dom
+- emailjs
 - React Icons
 - Google Fonts
 - CSS
+- Swiper
 
 # Getting Started with Create React App
 
@@ -52,7 +53,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Usage
 
-This project showcases the movies fetched via tmdb API and manages the favourite movies of the user.
+This is my personal portfolio website.
 
 Click on
 
@@ -60,12 +61,3 @@ Click on
 npm start
 ``` 
 to run the website
-
-## Demo Video
-
-- [Link](https://app.gemoo.com/share/home?codeId=PY4xjeEm742yo)
-
-
-
-
-https://github.com/harsh-sangwan2003/movies-app/assets/84121947/397ec112-47a4-4992-9e39-f112d1e9898f.mp4
