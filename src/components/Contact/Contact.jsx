@@ -13,14 +13,14 @@ const Contact = () => {
 
     e.preventDefault();
 
-    emailjs.sendForm('service_p9bzsvh', 'template_95e3n5e', form.current, 'cs3msriZ0cK2lPMpC')
+    emailjs.sendForm('service_him6i0p', 'template_y6ak664', form.current, 'qUrHoSom2MYQhXqLg')
       .then((result) => {
         console.log(result.text);
       }, (error) => {
         console.log(error.text);
       });
 
-      e.target.reset();
+    e.target.reset();
   };
 
   return (
@@ -34,15 +34,15 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
-            <h5>dummyemail@gmail.com</h5>
-            <a href="mailto:dummyemail@gmail.com" target='_blank'>Send a message</a>
+            <h5>hsangwan2002email@gmail.com</h5>
+            <a href="mailto:hsangwan2002email@gmail.com" target='_blank'>Send a message</a>
           </article>
 
           <article className="contact__option">
             <RiMessengerLine className='contact__option-icon' />
             <h4>Messenger</h4>
-            <h5>edgartutorials</h5>
-            <a href="https://www.googl.com" target='_blank'>Send a message</a>
+            <h5>harshsangwan2003</h5>
+            <a href="https://www.facebook.com" target='_blank'>Send a message</a>
           </article>
 
           <article className="contact__option">

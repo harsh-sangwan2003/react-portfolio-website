@@ -16,7 +16,7 @@
 .contact__option{
 
     background: var(--color-bg-variant);
-    padding:1.rem;
+    padding:1rem;
     border-radius: 1.2rem;
     text-align: center;
     border:1px solid transparent;
@@ -66,7 +66,7 @@ input,textarea{
 
     #contact{
 
-        margin-bottom:20rem;
+        margin-bottom:30rem;
     }
 
     .container.contact__container{
@@ -79,10 +79,6 @@ input,textarea{
 /* Small devices */
 @media screen and (max-width:600px) {
 
-    #contact{
-
-        margin:90rem 0 20rem;
-    }
 
     .container.contact__container{
 

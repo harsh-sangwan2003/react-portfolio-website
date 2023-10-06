@@ -1,7 +1,5 @@
 import React from 'react'
 import './about.css'
-import me from '../../assets/me-about.jpg'
-import me2 from '../../assets/1.jpg';
 import img from '../../assets/Photo.png';
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
@@ -32,8 +30,8 @@ const About = () => {
 
                         <article className='about__card'>
                             <FiUsers className='about__icon' />
-                            <h5>Clients</h5>
-                            <small>100+ Worlwide</small>
+                            <h5>Coding Hours</h5>
+                            <small>1000+ hrs</small>
                         </article>
 
                         <article className='about__card'>
@@ -45,7 +43,9 @@ const About = () => {
                     </div>
 
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, modi repellat assumenda minima placeat explicabo iste corrupti ipsa consectetur aperiam praesentium blanditiis quae laboriosam neque sed exercitationem nemo magnam et?
+                        With a solid foundation in web development and a keen interest in staying up-to-date with the latest technologies, I have gained valuable experience in a wide range of tools and technologies. 
+                        I am well-versed in front-end development using React, HTML, CSS, and have a knack for creating visually appealing and responsive user interfaces. My proficiency in back-end development includes Node.js, where I have built robust server-side applications and utilized Redux for state management.
+                        In addition to my front-end and back-end skills, I am adept at database management, particularly with MySQL.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
