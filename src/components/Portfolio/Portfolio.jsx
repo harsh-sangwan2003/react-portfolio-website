@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import img1 from '../../assets/img1.webp';
-import img2 from '../../assets/img2.png';
+import img2 from '../../assets/img2.webp';
 import img3 from '../../assets/img3.png';
 import img4 from '../../assets/img4.webp';
 import img5 from '../../assets/img5.webp';
@@ -18,9 +18,9 @@ const data = [
   {
     id: 2,
     image: img2,
-    title: 'Hotel Website',
-    github: 'https://github.com/harsh-sangwan2003/Hotel-Website',
-    demo: 'https://harsh-sangwan2003.github.io/Hotel-Website/'
+    title: 'Edge Ledger Website',
+    github: 'https://github.com/harsh-sangwan2003/Edge-Ledger-Website',
+    demo: 'https://harsh-sangwan2003.github.io/Edge-Ledger-Website/'
   },
   {
     id: 3,
