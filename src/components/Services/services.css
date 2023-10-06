@@ -1,3 +1,8 @@
+#services{
+
+    margin:0 0 20rem;
+}
+
 .services__container{
 
     display:grid;
@@ -62,6 +67,11 @@
 /* Medium devices */
 @media screen and (max-width:1024px){
 
+    #services{
+
+        margin:10rem 0 70rem;
+    }
+
     .services__container{
 
         grid-template-columns: 1fr 1fr;
@@ -74,8 +84,13 @@
     }
 }
 
-@media screen and (max-width:620px) {
+@media screen and (max-width:600px) {
     
+    #services{
+
+        margin:0 0 80rem;
+    }
+
     .services__container{
 
         grid-template-columns: 1fr;

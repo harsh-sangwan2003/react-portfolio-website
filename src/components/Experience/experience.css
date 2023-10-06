@@ -1,3 +1,8 @@
+#experience{
+
+    margin:1rem 0 1rem;
+}
+
 .experience__container {
 
     display: grid;
@@ -52,7 +57,7 @@
 
     #experience{
 
-        margin-top:22rem;
+        margin:30rem 0 5rem;
     }
 
     .experience__container{
@@ -74,13 +79,13 @@
 }
 
 /* Small devices */
-@media screen and (max-width:620px){
-
+@media screen and (max-width:600px){
+    
     #experience{
 
-        margin-top:25rem;
+        margin:30rem 0 15rem;
     }
-    
+
     .experience__container{
 
         gap:1rem;
