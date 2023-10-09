@@ -27,7 +27,7 @@ const data = [
     image: img3,
     title: 'React Portfolio Website',
     github: 'https://github.com/harsh-sangwan2003/react-potfolio-website',
-    demo: 'https://dribbble.com/shots/22683253-BlockAI-Blockchain-Explorer-for-Crypto-Copy-Trading-Dashboard?utm_source=Clipboard_Shot&utm_campaign=extej&utm_content=BlockAI%20Blockchain%20Explorer%20for%20Crypto%20Copy%20Trading%20Dashboard&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=extej&utm_content=BlockAI%20Blockchain%20Explorer%20for%20Crypto%20Copy%20Trading%20Dashboard&utm_medium=Social_Share'
+    demo: 'https://harsh2003-portfolio-website.netlify.app/'
   },
   {
     id: 4,
