@@ -27,7 +27,7 @@ const data = [
     image: img3,
     title: 'React Portfolio Website',
     github: 'https://github.com/harsh-sangwan2003/react-potfolio-website',
-    demo: 'https://harsh2003-portfolio-website.netlify.app/'
+    demo: 'https://react-potfolio-website.vercel.app//'
   },
   {
     id: 4,
