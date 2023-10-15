@@ -32,9 +32,9 @@ const data = [
   {
     id: 4,
     image: img4,
-    title: 'Insta Reels',
-    github: 'https://github.com/harsh-sangwan2003/insta-reels',
-    demo: 'https://harsh-insta-reels-clone.netlify.app/login'
+    title: 'Task Manager App',
+    github: 'https://github.com/harsh-sangwan2003/Task-Manager-App',
+    demo: 'https://harsh-sangwan2003.github.io/Task-Manager-App/'
   },
   {
     id: 5,
