@@ -49,11 +49,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-``` 
-
 ## Usage
 
-This is my personal portfolio website.
+Elevating my portfolio using React.js, JSX, JavaScript, SCSS, CSS, Three.js, and Material UI. A fusion of tech and design, showcasing my expertise in a sleek, immersive way.
 
 Click on
 
