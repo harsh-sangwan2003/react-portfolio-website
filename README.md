@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://react-potfolio-website.vercel.app/)
+- [Link](https://harsh-react-portfolio-website.vercel.app/)
 
 A quick guide to my Project ->
 
